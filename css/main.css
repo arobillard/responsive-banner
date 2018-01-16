@@ -12,6 +12,11 @@ html {
   border-color: #97a49b;
 }
 
+.btn-ghost:hover {
+  background-color: #fff;
+  border-color: #fff;
+}
+
 @media only screen and (min-width: 38em) {
 
   .unit:last-child {
